@@ -1,5 +1,5 @@
 # Credit Card Generator
-Credit Card Generator, Free Check fake numbers &amp; BIN Codes Tester. You can test your credit card and create virtual new credit card for use payment apis & codes.
+Credit Card Generator, Free Check fake numbers & amp; BIN Codes Tester. You can test your credit card and create virtual new credit card for use payment apis & codes.
 
 Luhn's algorithm, named for this algorithm
 Hans Peter Luhn, who developed it. This algorithm, based on the established 1950s, is not really new.
@@ -45,7 +45,7 @@ We sum up the two total results. If the result is exactly the 10th, in other wor
 
 
 
-Demo: [JCB Virtual Credit Card Generator](https:////creditcard.run/generator/jcb)
+Demo: [Visa Virtual Credit Card Generator](https:////creditcard.run/generator/visa)
 
 
 
